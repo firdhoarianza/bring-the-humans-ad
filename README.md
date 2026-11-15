@@ -18,4 +18,4 @@ $1,000 in USDC.
 - `index.html` — the referral ad page (1280x800, no build step)
 - `ad.png` — the rendered screenshot
 
-Referral code: **s7dswg2d** · Link: <https://make.fun/r/s7dswg2d>
+Referral code: **w08hvtqh** · Link: <https://make.fun/r/w08hvtqh>
